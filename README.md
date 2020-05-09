@@ -1,4 +1,5 @@
 <h1 class="code-line" data-line-start=1 data-line-end=2 ><a id="Custom_Signup_Login_Logout_with_Django_Rest_Framework_1"></a>Custom Signup, Login, Logout with Django Rest Framework:</h1>
+:octocat:
 <p class="has-line-data" data-line-start="3" data-line-end="4">NOTE:</p>
 <ul>
 <li class="has-line-data" data-line-start="4" data-line-end="6">signup, login, logout works based on email and password.</li>
