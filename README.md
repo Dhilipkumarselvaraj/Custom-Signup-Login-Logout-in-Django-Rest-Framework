@@ -1,5 +1,3 @@
-# Django-Rest-Framework---Signup-Login-Logout
-Basic signup, login, logout done with django rest framework.
 <h1 class="code-line" data-line-start=1 data-line-end=2 ><a id="Custom_Signup_Login_Logout_with_Django_Rest_Framework_1"></a>Custom Signup, Login, Logout with Django Rest Framework:</h1>
 <p class="has-line-data" data-line-start="3" data-line-end="4">NOTE:</p>
 <ul>
@@ -53,7 +51,7 @@ Basic signup, login, logout done with django rest framework.
 
 </code></pre>
 <hr>
-<h1 class="code-line" data-line-start=58 data-line-end=59 ><a id="Login_58"></a>Login:</h1>
+<h1 class="code-line" data-line-start=58 data-line-end=59 ><a id="Logout_58"></a>Logout:</h1>
 <p class="has-line-data" data-line-start="59" data-line-end="62"><strong>URL:</strong> <a href="http://localhost:8000/account/logout/">http://localhost:8000/account/logout/</a><br>
 <strong>Method:</strong> POST<br>
 <strong>Header:</strong></p>
